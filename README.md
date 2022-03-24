@@ -1,9 +1,9 @@
-#Facial Emotion Recognition
+# Facial Emotion Recognition
 
-##Summary
+## Summary
 
-##Project Description
+## Project Description
 
-##Paper Differentiators
+## Paper Differentiators
 
-##Time Worked
+## Time Worked
